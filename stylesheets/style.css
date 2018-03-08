@@ -110,6 +110,10 @@ figcaption {
 }
 
 .concepts-section-header {
+    border-bottom-color: slateblue;
+}
+
+.apps-section-header {
     border-bottom-color: deeppink;
 }
 
@@ -154,9 +158,14 @@ figcaption {
     width: 300px;
     filter: brightness(150%);
 }
-    
+
 .concept-2-header {
     border-color: cornflowerblue;
+}
+
+.app-image img {
+    width: 300px;
+    height: 300px;
 }
 
 .members {
